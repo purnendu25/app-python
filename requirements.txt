@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+nltk
+pandas
+matplotlib
+wordcloud
+python-docx
+PyMuPDF
+requests
+streamlit-lottie
