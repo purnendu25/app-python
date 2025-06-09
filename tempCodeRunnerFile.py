@@ -1,0 +1,1 @@
+bg_style = random.choice(gradients)
